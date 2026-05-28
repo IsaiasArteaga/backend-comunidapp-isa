@@ -1,0 +1,9 @@
+@relation potencial_ventas
+
+@attribute cantidad_articulos_activos numeric
+@attribute velocidad_venta_promedio numeric
+@attribute calificacion_promedio_ventas numeric
+@attribute precio_promedio_articulos numeric
+@attribute potencial_ventas {ALTO_POTENCIAL,BAJO_POTENCIAL}
+
+@data

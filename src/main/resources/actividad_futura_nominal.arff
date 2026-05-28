@@ -1,0 +1,9 @@
+@RELATION actividad_futura
+
+@ATTRIBUTE dias_desde_ultima_actividad NUMERIC
+@ATTRIBUTE articulos_publicados_ultimo_mes NUMERIC
+@ATTRIBUTE frecuencia_conexion_semanal NUMERIC
+@ATTRIBUTE tasa_transacciones_completadas NUMERIC
+@ATTRIBUTE actividad_futura {ACTIVO,INACTIVO}
+
+@DATA
